@@ -43,12 +43,12 @@ Dessert: (optional)
 
 ## Roadmap
 
-[ ] Create executable
-[ ] Create `waitress provision`
-[ ] Add ability to provision new server(s)
-[ ] Decide on configuration format (chef recipes, bash scripts, or something custom)
-[ ] Create configurations/recipes after selections are made
-[ ] Run provisioning on the new servers after selections are made
+* [ ] Create executable
+* [ ] Create `waitress provision`
+* [ ] Add ability to provision new server(s)
+* [ ] Decide on configuration format (chef recipes, bash scripts, or something custom)
+* [ ] Create configurations/recipes after selections are made
+* [ ] Run provisioning on the new servers after selections are made
 
 ## Contributing
 
